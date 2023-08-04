@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Spring Boot, Angular, and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
